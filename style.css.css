@@ -1,0 +1,43 @@
+div{
+    display: f;
+    display:grid;
+    grid-row: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    width: 100px;
+    height: 100px;
+
+}
+.div1{
+    background-color: black
+    ;
+    padding: 20px;
+
+}
+.div2{
+   display: inline-block;
+
+width: 500px;
+height: 400px;
+}
+.div2{
+    margin-left: 200px;
+
+}
+p{
+    display: inline-block;
+    text-align: top;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 10px;
+    text-decoration: none;
+    color: aliceblue;
+
+
+}
+ul{
+    background-color: gray;
+    padding: 20px;
+}
